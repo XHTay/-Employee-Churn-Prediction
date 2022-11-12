@@ -1,2 +1,2 @@
-# -Employee-Churn-Prediction
+# Employee-Churn-Prediction
 The final exam of the BACS3013 Data Science course offered by TARUMT's Data Science Programme. Given a labeled employee churn dataset, I have performed Exploratory Data Analysis, Data Preparation and Wrangling, Analyze the data, Train several models such as KNN, Random Forest and Multilayered Perceptron, performed Hyperparameter Tuning on these models. The accuracy of the best model (Random Forest) was 97.3% on the test set. These were done within 3 hours!
